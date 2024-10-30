@@ -1,0 +1,40 @@
+.greenBkg{
+	background-color: #A1C181;
+}
+.redBkg{
+	background-color: #f00;
+}
+h1{
+	color: #233D4D;
+	font-family: Verdana, "Verdana Neue", sans-serif;
+	font-size: 38pt;
+}
+h2{
+	color: #FCCA46;
+}
+a{
+	display: block;
+  	padding: 8px;
+	text-decoration: none;
+	color: #233D4D;
+}
+a:hover{
+	color: #FCCA46;
+	background-color: #582F0E;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #B6AD90;
+}
+li {
+  display: inline;
+  float: left;
+}
+img{
+	border-radius: 8px;
+}
+img:hover{
+ 	box-shadow: 0 0 2px 1px rgba(120, 140, 26, 0.5);
+}
